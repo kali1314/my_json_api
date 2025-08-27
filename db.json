@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "5163",
+      "emailId": "abc@gmail.com",
+      "password": "abc"
+    }
+  ],
+  "students": [
+    {
+      "id": "567c",
+      "name": "Tanvir",
+      "email": "tanvir106256@gmail.com",
+      "department": "ICE"
+    },
+    {
+      "id": "2689",
+      "name": "Pulok",
+      "email": "pulok@gmail.com",
+      "department": "CSTE"
+    },
+    {
+      "id": "5842",
+      "name": "Poly",
+      "email": "poly@gmail.com",
+      "department": "CSTE"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "2c41",
+      "name": "Ashikur Rahman Khan",
+      "email": "ashik@gmail.com",
+      "department": "Informaiton and Communication Engineering"
+    }
+  ]
+}
